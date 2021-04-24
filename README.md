@@ -1,9 +1,9 @@
 # reading-notes02
 Code 201 New Reading Notes
-# Code 201 Reading Notes
 
 ## table of content ^.^
-## Code 102 Reading Notes
+## Code 201 Reading Notes
+
 
 | Reading Topic  | live URLs    |
 | :------------- | :---------- |
