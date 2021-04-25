@@ -10,14 +10,14 @@
 **To create a paragraph, surround  the words that make up the paragraph with an opening *<p>* tag and closing *</p>* tag**
 
 *Bold & Italic:* 
-**By enclosing words in the tags *<b>* and *</b>* we can make characters appear bold. *<i>* By enclosing words in the tags *<i>*  and the *</i>* we can make characters appear italic.**
+**By enclosing words in the tags *b* and *b* we can make characters appear bold. *i* By enclosing words in the tags *i*  and the *i* we can make characters appear italic.**
 
 *Superscript & Subscrip*
 
-**The * the <sup>* element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as 22**
+**The * the sup* element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as 22**
 
-**The *<sub>* element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.**
-**<p>On the 4<sup>th</sup> of September you will learn about E=MC<sup>2</sup>.</p><p>The amount of CO<sub>2</sub> in the atmosphere  grew by 2ppm in 2009<sub>1</sub>.</p> On the 4th of September you will learn about E=MC2. The amount of CO2 in the atmosphere grew by 2ppm in 20091.**
+**The *sub* element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.**
+**p On the 4<sup>th</sup> of September you will learn about E=MC<sup>2</sup>.</p><p>The amount of CO<sub>2</sub> in the atmosphere  grew by 2ppm in 2009<sub>1</sub>.</p> On the 4th of September you will learn about E=MC2. The amount of CO2 in the atmosphere grew by 2ppm in 20091.**
 
 *White Space:*
 **When the browser comes across two or more spaces next to each other, it only displays one space. Similarly if it comes across a line break, it treats that as a single space too. This is known as white space collapsing**
@@ -29,20 +29,20 @@
 **To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the <hr /> tag They also provide semantic information (e.g. where emphasis should be placed, the definition of any acronyms used, when given text is a quotation).**
 
 *Abbreviations & Acronyms*
-**If  *<abbr>* you use an abbreviation or an acronym, then the *<abbr>*element can be used. A title attribute on the opening tag is used to specify the full term.**
+**If  *abbr* you use an abbreviation or an acronym, then the *abbr*element can be used. A title attribute on the opening tag is used to specify the full term.**
 
 
-**When you are referencing a piece of work such as a book, film or research paper, the *<cite>* element can be used to indicate where the citation is from**
+**When you are referencing a piece of work such as a book, film or research paper, the *cite* element can be used to indicate where the citation is from**
 
 
-**The *<dfn>* first time you explain some new terminology (perhaps an academic concept or some jargon) in a document, it is known as the defining instance of it**
+**The *dfn* first time you explain some new terminology (perhaps an academic concept or some jargon) in a document, it is known as the defining instance of it**
 
 *Author Details*
-**The *<address>* element has quite a specific use: to contain contact details for the author of the page Changes to Content**
+**The *address* element has quite a specific use: to contain contact details for the author of the page Changes to Content**
 
-**The *<ins>* element can be used to show content that has been inserted into a document, while the *<del>* element can show text that has been deleted from it.**
+**The *ins* element can be used to show content that has been inserted into a document, while the *del* element can show text that has been deleted from it.**
 
-**The *<s>* element indicates something that is no longer accurate or relevant (but that should not be deleted)**
+**The *s* element indicates something that is no longer accurate or relevant (but that should not be deleted)**
 
 ### *Introducing CSS*
 **The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element.**
