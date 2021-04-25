@@ -168,5 +168,5 @@
 [Learn more about loops](https://www.w3schools.com/js/js_loop_for.asp)
 
 ### *If statements:*
-![](https://media.geeksforgeeks.org/wp-content/uploads/20191118171408/If-statement-GeeksforGeeks1.jpg) 
+![](https://media.geeksforgeeks.org/wp-content/uploads/20191118171408/If-statement-GeeksforGeeks1.jpg)  
 
