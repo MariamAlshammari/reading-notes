@@ -6,7 +6,8 @@
 *<h1> <h2> .. <h6>*
 
 *Paragraphs*
-**To create a paragraph, surround  the words that make up the paragraph with an opening *<p>* tag and closing </p> tag**
+
+**To create a paragraph, surround  the words that make up the paragraph with an opening *<p>* tag and closing *</p>* tag**
 
 *Bold & Italic:* 
 **By enclosing words in the tags *<b>* and *</b>* we can make characters appear bold. *<i>* By enclosing words in the tags  *<i>* and *</i>* we can make characters appear italic.**
