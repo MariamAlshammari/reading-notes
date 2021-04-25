@@ -3,11 +3,7 @@
 ### Introduction
 
 ### *How the Web Works*
-**When you visit a website, the web server 
-hosting that site could be anywhere in the 
-world. In order for you to find the location of 
-the web server, your browser will first connect 
-to a Domain Name System (DNS) server**
+**When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server**
 
 ### *Structure*
 #### HTML Uses Elements to Describe the Structure of Pages

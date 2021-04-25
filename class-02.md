@@ -6,14 +6,15 @@
 *<h1> <h2> .. <h6>*
 
 *Paragraphs*
-**To create a paragraph, surround  the words that make up the paragraph with an opening *<p>* tag and closing </p> tag**
+
+**To create a paragraph, surround  the words that make up the paragraph with an opening *<p>* tag and closing *</p>* tag**
 
 *Bold & Italic:* 
-**By enclosing words in the tags *<b>* and *</b>* we can make characters appear bold. *<i>* By enclosing words in the tags  *<i>* and *</i>* we can make characters appear italic.**
+**By enclosing words in the tags *<b>* and *</b>* we can make characters appear bold. *<i>* By enclosing words in the tags *<i>*  and the *</i>* we can make characters appear italic.**
 
 *Superscript & Subscrip*
 
-**The *<sup>* element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as 22**
+**The * the <sup>* element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as 22**
 
 **The *<sub>* element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.**
 **<p>On the 4<sup>th</sup> of September you will learn about E=MC<sup>2</sup>.</p><p>The amount of CO<sub>2</sub> in the atmosphere  grew by 2ppm in 2009<sub>1</sub>.</p> On the 4th of September you will learn about E=MC2. The amount of CO2 in the atmosphere grew by 2ppm in 20091.**
