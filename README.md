@@ -8,7 +8,7 @@ Code 201 New Reading Notes
 | Reading Topic  | live URLs    |
 | :------------- | :---------- |
 | class-01         |[link](https://mariamalshammari.github.io/reading-notes02/class-01)|
-| class-02         |[link]() |
+| class-02         |[link](https://mariamalshammari.github.io/reading-notes02/class-02) |
 | class-03         |[link]() |
 
 
