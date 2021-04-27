@@ -47,17 +47,9 @@
 
 - The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width.)
 
-#### *Screen Sizes*
-**Different visitors to your site will have different sized screens that show different amounts of information, so your design needs to be able to work on a range of different sized screens**
-
-* Screen Resolution
-**Resolution refers to the number of dots a screen shows per inch. Some devices have a higher resolution than desktop computers and most operating systems allow users to adjust the resolution of their screens.**
-
-* Page Sizes
-**Because screen sizes and display resolutions vary so much, web designers often try to create pages of around 960-1000 pixels wide (since most users will be able to see designs this wide on their screens).**
 
 
-### *Layouts*
+##### *Layouts*
 * Fixed Width Layouts
 **Fixed width layout designs do not change size as the user increases or decreases the size of their browser window. Measurements tend to be given in pixels.**
 
@@ -71,6 +63,17 @@
 * Layout Grids:
 **Composition in any visual art (such as design, painting, or photography) is the placement or arrangement of visual elements — how they are organized on a page. Many designers use a grid structure to help them position items on a page, and the same is true for web designers**
 * Grids help create professional and flexible designs.
+
+#### *Screen Sizes*
+**Different visitors to your site will have different sized screens that show different amounts of information, so your design needs to be able to work on a range of different sized screens**
+
+![](https://allma.si/blog/wp-content/uploads/2020/09/display-different-images-based-on-screen-size.png)
+
+* Screen Resolution
+**Resolution refers to the number of dots a screen shows per inch. Some devices have a higher resolution than desktop computers and most operating systems allow users to adjust the resolution of their screens.**
+
+* Page Sizes
+**Because screen sizes and display resolutions vary so much, web designers often try to create pages of around 960-1000 pixels wide (since most users will be able to see designs this wide on their screens).**
 
 ### *Multiple Style Sheets*
 **@import :Some web page authors split up their CSS style rules into separate style sheets. For example, they might use one style sheet to control the layout and another to control fonts, colors and so on. Some authors take an even more modular approach to stylesheets, creating separate stylesheets to control typography, layout, forms, tables, even different styles for each sub-section of a site.**
