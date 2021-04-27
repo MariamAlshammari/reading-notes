@@ -8,7 +8,8 @@
 
 2. Unordered Lists :The unordered list is created with the *ul* element.
    - *li* Each item in the list is placed between an opening *li* tag and a closing *li* tag. (The listands for list item.)
-   ![](https://2.bp.blogspot.com/-f63eeKsL3ao/XMMzxzYD6FI/AAAAAAAAC0E/qAilKQAHApYnynhY4No14ZghRzNzh4IXACLcBGAs/s640/Type-Attribute-in-Unordered-List.png)
+
+![](https://2.bp.blogspot.com/-f63eeKsL3ao/XMMzxzYD6FI/AAAAAAAAC0E/qAilKQAHApYnynhY4No14ZghRzNzh4IXACLcBGAs/s640/Type-Attribute-in-Unordered-List.png)
 
 3. Definition Lists:The definition list is created with the *dl* element and usually consists of a series of terms and their definitions.
   - Inside the *dl* element you will usually see pairs of *dt* and *dd* elements.
