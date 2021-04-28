@@ -113,9 +113,9 @@
 
 * UpperCase & LowerCase >text-transform
 *The text-transform property is used to change the case of text giving it one of the following values:*
-* uppercase This causes the text to appear uppercase. 
-* lowercase This causes the text to appear lowercase. 
-* capitalize This causes the first letter of each word to appear capitalized.
+   * uppercase This causes the text to appear uppercase. 
+   * lowercase This causes the text to appear lowercase. 
+   * capitalize This causes the first letter of each word to appear capitalized.
 
 * Underline & Strike >text-decoration
 *The text-decoration property allows you to specify the following values:*
@@ -139,7 +139,7 @@
 
   ![]( https://images.slideplayer.com/16/5036092/slides/slide_4.jpg) 
 
-**Indenting Text text-indent*
+*Indenting Text text-indent*
 **The text-indent property allows you to indent the first line of text within an element. The amount you want the line indented by can be specified in a number of ways but is usually given in pixels or ems.**
 * Techniques That Offer a Wider Choice of Typefaces:
 *There are several ways to use fonts other than those listed However, typefaces are subject to copyright, so the techniques you can choose from are limited by their respective licenses.*
@@ -161,6 +161,9 @@
    * Percentages
    * Ems
    * More Font Choice
+
+
+
 **@font-face allows you to use a font, even if it is not installed on the computer of the person browsing, by allowing you to specify a path to a copy of the font, which will be downloaded if it is not on the user's machine.**
 
 #### *font-family*
@@ -178,11 +181,11 @@
 * First Letter or Line >:first-letter, :first-line
 *You can specify different values for the first letter or first line of text inside an element using :first-letter and :first-line. Technically these are not properties. They are known as pseudo-elements. You specify the pseudo-element at the end of the selector, and then specify the declarations as you would normally for any other element*
 
-*Styling Links :link, :visited
+* Styling Links :link, :visited
 *Browsers tend to show links in blue with an underline by default, and they will change the color of links that have been visited to help users know which pages they have been to. In CSS, there are two pseudoclasses that allow you to set different styles for links that have and have not yet been visited.*
 
-  * :link This allows you to set styles for links that have not yet been visited.
-  * :visited This allows you to set styles for links that have been clicked on. They are commonly used to control colors of the links and also whether they are to appear underlined or not.
+   * :link This allows you to set styles for links that have not yet been visited.
+   * :visited This allows you to set styles for links that have been clicked on. They are commonly used to control colors of the links and also whether they are to appear underlined or not.
 
 * Responding to Users :hover, :active, :focus
 *There are three pseudo-classes that allow you to change the appearance of elements when a user is interacting with them.*
