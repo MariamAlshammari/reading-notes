@@ -18,7 +18,7 @@
 ![]( https://i.stack.imgur.com/ErYFs.png)
 
 * *CREATING· OBJECTS USING LITERAL NOTATION*
-![]( https://image.slidesharecdn.com/oojs-1229037721986393-1/95/beginning-objectoriented-javascript-15-728.jpg?cb=1229139637) 
+
 ![]( https://cdn.lynda.com/course/674601/674601-637491195140544626-16x9.jpg) 
 
 
