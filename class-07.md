@@ -1,4 +1,4 @@
-##### class05
+##### class07
 
 
 ### Domain Modeling
@@ -28,7 +28,7 @@
 *What's a Table?*
 **A table represents information in a grid format. Examples of tables include financial reports, TV schedules, and sports results**
 
-*The *table* element is used to create a table. The contents of the table are written out row by row.*
+**The *table* element is used to create a table.The contents of the table are written out row by row.**
 
  **the *tr* You indicate the start of each row using the opening *tr* tag. (The tr stands for table row.)  It is followed by one or more**
 **the *td* elements (one for each cell in that row). At the end of the row you use a closing *tr* tag**
@@ -54,7 +54,8 @@
 * 
 
 ![]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-zJefCJK-fA1iIz8YyVImAWsigJWtnzn3YA&usqp=CAU) 
-CREATING OBJECTS USING CONSTRUCTOR SYNTAX)
+
+* CREATING OBJECTS USING CONSTRUCTOR SYNTAX
 
 ![]( https://assets.codepen.io/164292/internal/screenshots/pens/eNvYxV.default.png?fit=cover&format=auto&ha=false&height=540&quality=75&v=2&version=1433296111&width=960)
 
@@ -65,7 +66,7 @@ CREATING OBJECTS USING CONSTRUCTOR SYNTAX)
 ### CREATE THE OBJECT, THEN ADD PROPERTIES & METHODS
  **The object is created on the first line of the code sample. The properties and methods are then added to it afterwards. Once you have created an object, the syntax for adding or removing any properties and methods from that object is the same.**
 
- ### *LITERAL NOTATION*
+### *LITERAL NOTATION*
 #### *OBJECT CONSTRUCTOR NOTATION*
 
 #### *THIS (IT IS A KEYWORD) The keyword this is commonly used inside functions and objects. Where the function is declared alters what this means. It always refers to one object, usually the object in which the function operates.*
@@ -79,7 +80,7 @@ CREATING OBJECTS USING CONSTRUCTOR SYNTAX)
 
 ![]( https://i.stack.imgur.com/QSWXJ.png)
  
- #### *THREE GROUPS OF BULT-IN OBJECTS*
+#### *THREE GROUPS OF BULT-IN OBJECTS*
 **THE BROWSER OBJECT MODEL: THE WINDOW OBJECT The window object represents the current browser window or tab. It is the topmost object in the Browser Object Model, and it contains other objects that tell you about the browser.**
 
 ### *THE DOCUMENT OBJECT MODEL:* 
