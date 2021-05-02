@@ -13,7 +13,7 @@ Code 201 New Reading Notes
 | class-04         |[link](https://mariamalshammari.github.io/reading-notes02/class-04) |
 | class-05         |[link](https://mariamalshammari.github.io/reading-notes02/class-05) |
 | class-06         |[link](https://mariamalshammari.github.io/reading-notes02/class-06) |
-
+| class-07         |[link](https://mariamalshammari.github.io/reading-notes02/class-07) |
 
 
 
