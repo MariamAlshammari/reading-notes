@@ -1,4 +1,10 @@
-### *Layout*
+#### class-08
+
+### From the Duckett HTML book:
+
+
+
+## *Layout*
 - Key Concepts in Positioning Elements
 **Building Blocks CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.**
 **Containing Elements If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element.**
@@ -18,7 +24,7 @@
 
   - Floating Elements: The float property allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible. Anything else that sits inside the containing element will flow around the element that is floated.
 
-- The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width.)
+  - The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width.)
 
 
 
@@ -52,7 +58,7 @@
 **@import :Some web page authors split up their CSS style rules into separate style sheets. For example, they might use one style sheet to control the layout and another to control fonts, colors and so on. Some authors take an even more modular approach to stylesheets, creating separate stylesheets to control typography, layout, forms, tables, even different styles for each sub-section of a site.**
 
 
-* The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width.) 
+
 * Pages can be fixed width or liquid (stretchy) layouts. 
 * Designers keep pages within 960-1000 pixels wide, and indicate what the site is about within the top 600 pixels (to demonstrate its relevance without scrolling). 
 * Grids help create professional and flexible designs.
