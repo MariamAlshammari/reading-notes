@@ -15,6 +15,8 @@ Code 201 New Reading Notes
 | class-06         |[link](https://mariamalshammari.github.io/reading-notes02/class-06) |
 | class-07         |[link](https://mariamalshammari.github.io/reading-notes02/class-07) |
 | class-08         |[link](https://mariamalshammari.github.io/reading-notes02/class-08) |
+| class-09         |[link](https://mariamalshammari.github.io/reading-notes02/class-09) |
+
 
 
 
