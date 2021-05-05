@@ -4,7 +4,7 @@
 * EXECUT.ION CONTEXTS
 **The JavaScript interpreter uses the concept of execution contexts. There is one global execution context; plus, each function creates a new new execution context. They correspond to variable scope.**
 #### EXECUTION CONTEXT & HOISTING:
-**Each time a script enters a new execution context, there are two phases of activity: **
+**Each time a script enters a new execution context, there are two phases of activity:**
 1.  PREPARE 
 * The new scope is created 
 * Variables, functions, and arguments are created 
