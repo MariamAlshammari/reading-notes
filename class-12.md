@@ -2,9 +2,14 @@
 
 ## Chart.js
 **Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool.**
+
 ![]( https://www.codewall.co.uk/wp-content/uploads/2018/08/chart-js-charts.jpg) 
-**A great way to get started with charts is with Chart.js, a JavaScript plugin that uses HTML5’s canvas element to draw the graph onto the page. All that's required is the script included in your page along with a single <canvas> node to render the chart.**
+
+
+**A great way to get started with charts is with Chart.js, a JavaScript plugin that uses HTML5’s canvas element to draw the graph onto the page. All that's required is the script included in your page along with a single canvas node to render the chart.**
+
 *there are some steps to use and create chart*
+
 * Setting up: The first thing we need to do is download Chart.js. Copy the Chart.min.js out of the unzipped folder and into the directory you’ll be working in. Then create a new html page and import the script
 * Drawing a chart: To draw a chart, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart. So add this to the body of our HTML page
 * Next, we need to write a script that will retrieve the context of the canvas, so add this to the foot of your body element
@@ -13,17 +18,24 @@
 ![]( https://www.codegrepper.com/codeimages/stacked-bar-graph-chartjs.png) 
 >You can choose any type of chart you want.
 ![]( https://www.cdn.geeksforgeeks.org/wp-content/uploads/Screenshot-from-2018-07-03-12-00-44.png) 
+
 *The great things about Chart.js are that it’s simple to use and really very flexible.*
+
 ### Basic usage of canvas
-**At first sight a <canvas> looks like the <img> element, with the only clear difference being that it doesn't have the src and alt attributes. Indeed, the <canvas> element has only two attributes, width and height. These are both optional and can also be set using DOM properties. When no width and height attributes are specified, the canvas will initially be 300 pixels wide and 150 pixels high. The element can be sized arbitrarily by CSS, but during rendering the image is scaled to fit its layout size: if the CSS sizing doesn't respect the ratio of the initial canvas, it will appear distorted.**
-**The <canvas> element can be styled just like any normal image (margin, border, background…).**
+**At first sight a canvas looks like the img element, with the only clear difference being that it doesn't have the src and alt attributes. Indeed, the canvas element has only two attributes, width and height. These are both optional and can also be set using DOM properties. When no width and height attributes are specified, the canvas will initially be 300 pixels wide and 150 pixels high. The element can be sized arbitrarily by CSS, but during rendering the image is scaled to fit its layout size: if the CSS sizing doesn't respect the ratio of the initial canvas, it will appear distorted.**
+
+**The canvas element can be styled just like any normal image (margin, border, background…).**
+
 ### The rendering context
-**The <canvas> element creates a fixed-size drawing surface that exposes one or more rendering contexts, which are used to create and manipulate the content shown. In this tutorial, we focus on the 2D rendering context. Other contexts may provide different types of rendering**
-**The canvas is initially blank. To display something, a script first needs to access the rendering context and draw on it. The <canvas> element has a method called getContext(), used to obtain the rendering context and its drawing functions. getContext() takes one parameter, the type of context.**
+**The canvas element creates a fixed-size drawing surface that exposes one or more rendering contexts, which are used to create and manipulate the content shown. In this tutorial, we focus on the 2D rendering context. Other contexts may provide different types of rendering**
+
+**The canvas is initially blank. To display something, a script first needs to access the rendering context and draw on it. The canvas element has a method called getContext(), used to obtain the rendering context and its drawing functions. getContext() takes one parameter, the type of context.**
+
 ![]( https://cms-assets.tutsplus.com/uploads/users/48/posts/28129/image/JS-code%20(1).png) 
+
 ### Drawing shapes with canvas
 ![]( https://slideplayer.com/slide/11588201/62/images/16/Drawing+Shapes+Simple+shape+drawing+in+the+canvas+is+limited+to+squares+and+rectangles..) 
- #####Drawing rectangles
+ ##### Drawing rectangles
 **Unlike SVG, <canvas> only supports two primitive shapes: rectangles and paths (lists of points connected by lines). All other shapes must be created by combining one or more paths. Luckily, we have an assortment of path drawing functions which make it possible to compose very complex shapes.**
 * fillRect(x, y, width, height): Draws a filled rectangle.
 * strokeRect(x, y, width, height) Draws a rectangular outline.
@@ -83,7 +95,9 @@
 **Just like any normal drawing program, we can fill and stroke shapes using linear, radial and conic gradients. We create a CanvasGradient object by using one of the following methods. We can then assign this object to the fillStyle or strokeStyle properties.*
 
 #### createPattern(image, type)
-**Creates and returns a new canvas pattern object. image is a CanvasImageSource (that is, an HTMLImageElement, another canvas, a <video> element, or the like. type is a string indicating how to use the image.**
+
+**Creates and returns a new canvas pattern object. image is a CanvasImageSource (that is, an HTMLImageElement, another canvas, a video element, or the like. type is a string indicating how to use the image.**
+
 #### Shadows
 **Using shadows involves just four properties:**
 
@@ -96,7 +110,7 @@
 **When using fill (or clip and isPointInPath) you can optionally provide a fill rule algorithm by which to determine if a point is inside or outside a path and thus if it gets filled or not. This is useful when a path intersects itself or is nested.**
 
 ### Drawing text
-** The canvas rendering context provides two methods to render text:**
+**The canvas rendering context provides two methods to render text:**
 
 * fillText(text, x, y [, maxWidth]): Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.
 * strokeText(text, x, y [, maxWidth]): Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.
