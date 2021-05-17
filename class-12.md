@@ -36,7 +36,8 @@
 ### Drawing shapes with canvas
 ![]( https://slideplayer.com/slide/11588201/62/images/16/Drawing+Shapes+Simple+shape+drawing+in+the+canvas+is+limited+to+squares+and+rectangles..) 
  ##### Drawing rectangles
-**Unlike SVG, <canvas> only supports two primitive shapes: rectangles and paths (lists of points connected by lines). All other shapes must be created by combining one or more paths. Luckily, we have an assortment of path drawing functions which make it possible to compose very complex shapes.**
+
+**Unlike SVG, canvas only supports two primitive shapes: rectangles and paths (lists of points connected by lines). All other shapes must be created by combining one or more paths. Luckily, we have an assortment of path drawing functions which make it possible to compose very complex shapes.**
 * fillRect(x, y, width, height): Draws a filled rectangle.
 * strokeRect(x, y, width, height) Draws a rectangular outline.
 * clearRect(x, y, width, height) Clears the specified rectangular area, making it fully transparent.
@@ -73,7 +74,7 @@
 * strokeStyle = color: Sets the style for shapes' outlines.
 ![](https://www.wikitechy.com/step-by-step-html-tutorials/html5-canvas/img/canvas-images/code-explanation-strokestyle-property-in-html5-canvas.png) 
 
-**color is a string representing a CSS <color>, a gradient object, or a pattern object. We'll look at gradient and pattern objects later. By default, the stroke and fill color are set to black (CSS color value #000000).**
+**color is a string representing a CSS color, a gradient object, or a pattern object. We'll look at gradient and pattern objects later. By default, the stroke and fill color are set to black (CSS color value #000000).**
 ![]( https://image.slidesharecdn.com/kickstarthtml5-130705130015-phpapp02/95/kick-start-html5-49-638.jpg?cb=1373029309) 
 
 ### Transparency
