@@ -19,9 +19,9 @@ Code 201 New Reading Notes
 | class-10         |[link](https://mariamalshammari.github.io/reading-notes02/class-10) |
 | class-11         |[link](https://mariamalshammari.github.io/reading-notes02/class-11) |
 | class-12         |[link](https://mariamalshammari.github.io/reading-notes02/class-12) |
-
-
-
+| class-13         |[link](https://mariamalshammari.github.io/reading-notes02/class-13) |
+| class-14a         |[link](https://mariamalshammari.github.io/reading-notes02/class-14a) |
+| class-14b         |[link](https://mariamalshammari.github.io/reading-notes02/class-14b) |
 
 **GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.**
 
