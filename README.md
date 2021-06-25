@@ -12,7 +12,7 @@
 
 ## **Code 102 - Intro to Software Development** 
 
-## table of content ^.^
+### table of content ^.^
 
 | Reading Topic  | live URLs    |
 | :------------- | :---------- |
@@ -28,7 +28,7 @@
 
 
 ## **Code 201 - Foundations of Software Development**
-## table of content ^.^
+### table of content ^.^
 
 | Reading Topic  | live URLs    |
 | :------------- | :---------- |
@@ -52,9 +52,9 @@
 
 ## **Code 301 - Intermediate Software Development**
 
-## table of content ^.^
+### table of content ^.^
 |Reading Topic|live URLs |
-|---|------|
+|class1|url|
 
 
 
