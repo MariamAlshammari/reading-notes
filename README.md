@@ -1,9 +1,34 @@
-# reading-notes02
-Code 201 New Reading Notes
+# **reading notes**
+
+####  Hi, I’m Mariam Alshammari i'm 22 years old, i've a bachelor's degree in computer information systems I’m interested in programming and writing.
+
+
+### **This repo is include all the reading notes of :**
+1. 102 code 
+2. 201 code 
+3. 301 code 
+4. 401 code 
+
+
+## **Code 102 - Intro to Software Development** 
 
 ## table of content ^.^
-## Code 201 Reading Notes
 
+| Reading Topic  | live URLs    |
+| :------------- | :---------- |
+| Summary01      |[link](https://mariamalshammari.github.io/reading-notes/Summary)|
+| read02         |[link](https://mariamalshammari.github.io/reading-notes/read02) |
+| read03         |[link](https://mariamalshammari.github.io/reading-notes/read03) |
+| read04a         |[link](https://mariamalshammari.github.io/reading-notes/read04a) |
+| read04b         |[link](https://mariamalshammari.github.io/reading-notes/read04b) |
+| read05         |[link](https://mariamalshammari.github.io/reading-notes/read05) |
+| read06         |[link](https://mariamalshammari.github.io/reading-notes/read06) |
+| read07         |[link](https://mariamalshammari.github.io/reading-notes/read07) |
+| read09         |[link](https://mariamalshammari.github.io/reading-notes/read09) |
+
+
+## **Code 201 - Foundations of Software Development**
+## table of content ^.^
 
 | Reading Topic  | live URLs    |
 | :------------- | :---------- |
@@ -22,6 +47,14 @@ Code 201 New Reading Notes
 | class-13         |[link](https://mariamalshammari.github.io/reading-notes02/class-13) |
 | class-14a         |[link](https://mariamalshammari.github.io/reading-notes02/class-14a) |
 | class-14b         |[link](https://mariamalshammari.github.io/reading-notes02/class-14b) |
+
+
+
+## **Code 301 - Intermediate Software Development**
+
+## Table of contenet
+|Reading Topic|live URLs |
+|---|------|
 
 **GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.**
 
