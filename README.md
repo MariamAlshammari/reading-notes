@@ -54,10 +54,6 @@
 
 ### table of content ^.^
 
-| Reading Topic  | live URLs    |
-| :------------- | :---------- |
-| class01          |[link](https://mariamalshammari.github.io/reading-notes/Class01)|
-
 
 | Reading Topic  | live URLs    |
 | :------------- | :---------- |
