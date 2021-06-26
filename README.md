@@ -53,9 +53,10 @@
 ## **Code 301 - Intermediate Software Development**
 
 ### table of content ^.^
-|Reading Topic|live URLs |
-|class01|[link](https://mariamalshammari.github.io/reading-notes/class01)|
-|class02|[link](https://mariamalshammari.github.io/reading-notes/class02)|
+| Reading Topic  | live URLs    |
+| :------------- | :---------- |
+|class01         |[link](https://mariamalshammari.github.io/reading-notes/Class01)|
+|class02         |[link](https://mariamalshammari.github.io/reading-notes/class02)|
 
 
 

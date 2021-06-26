@@ -87,11 +87,7 @@ Props can only be passed to components in one-way (parent to child)
 * A component re-renders when data in the props change  
 
 
- ## Things I want to know more about
  
-I read some thing about state so i want to know what is the dufferent betwwen state and props .
-
-
 ### Sources:
 * [A High Level Overview Of React](https://www.youtube.com/watch?v=FRjlF74_EZk)
 * [Component](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
