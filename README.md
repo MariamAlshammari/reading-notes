@@ -54,7 +54,8 @@
 
 ### table of content ^.^
 |Reading Topic|live URLs |
-|class1|url|
+|class01|[link](https://mariamalshammari.github.io/reading-notes/class01)|
+|class02|[link](https://mariamalshammari.github.io/reading-notes/class02)|
 
 
 
