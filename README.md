@@ -16,15 +16,15 @@
 
 | Reading Topic  | live URLs    |
 | :------------- | :---------- |
-| Summary01      |[link](https://mariamalshammari.github.io/reading-notes/Summary)|
-| read02         |[link](https://mariamalshammari.github.io/reading-notes/read02) |
-| read03         |[link](https://mariamalshammari.github.io/reading-notes/read03) |
-| read04a         |[link](https://mariamalshammari.github.io/reading-notes/read04a) |
-| read04b         |[link](https://mariamalshammari.github.io/reading-notes/read04b) |
-| read05         |[link](https://mariamalshammari.github.io/reading-notes/read05) |
-| read06         |[link](https://mariamalshammari.github.io/reading-notes/read06) |
-| read07         |[link](https://mariamalshammari.github.io/reading-notes/read07) |
-| read09         |[link](https://mariamalshammari.github.io/reading-notes/read09) |
+| Summary01      |[link](https://mariamalshammari.github.io/reading-notes2/Summary)|
+| read02         |[link](https://mariamalshammari.github.io/reading-notes2/read02) |
+| read03         |[link](https://mariamalshammari.github.io/reading-notes2/read03) |
+| read04a         |[link](https://mariamalshammari.github.io/reading-notes2/read04a) |
+| read04b         |[link](https://mariamalshammari.github.io/reading-notes2/read04b) |
+| read05         |[link](https://mariamalshammari.github.io/reading-notes2/read05) |
+| read06         |[link](https://mariamalshammari.github.io/reading-notes2/read06) |
+| read07         |[link](https://mariamalshammari.github.io/reading-notes2/read07) |
+| read09         |[link](https://mariamalshammari.github.io/reading-notes2/read09) |
 
 
 ## **Code 201 - Foundations of Software Development**
@@ -32,21 +32,21 @@
 
 | Reading Topic  | live URLs    |
 | :------------- | :---------- |
-| class-01         |[link](https://mariamalshammari.github.io/reading-notes02/class-01)|
-| class-02         |[link](https://mariamalshammari.github.io/reading-notes02/class-02) |
-| class-03         |[link](https://mariamalshammari.github.io/reading-notes02/class-03) |
-| class-04         |[link](https://mariamalshammari.github.io/reading-notes02/class-04) |
-| class-05         |[link](https://mariamalshammari.github.io/reading-notes02/class-05) |
-| class-06         |[link](https://mariamalshammari.github.io/reading-notes02/class-06) |
-| class-07         |[link](https://mariamalshammari.github.io/reading-notes02/class-07) |
-| class-08         |[link](https://mariamalshammari.github.io/reading-notes02/class-08) |
-| class-09         |[link](https://mariamalshammari.github.io/reading-notes02/class-09) |
-| class-10         |[link](https://mariamalshammari.github.io/reading-notes02/class-10) |
-| class-11         |[link](https://mariamalshammari.github.io/reading-notes02/class-11) |
-| class-12         |[link](https://mariamalshammari.github.io/reading-notes02/class-12) |
-| class-13         |[link](https://mariamalshammari.github.io/reading-notes02/class-13) |
-| class-14a         |[link](https://mariamalshammari.github.io/reading-notes02/class-14a) |
-| class-14b         |[link](https://mariamalshammari.github.io/reading-notes02/class-14b) |
+| class-01         |[link](https://mariamalshammari.github.io/reading-notes/class-01)|
+| class-02         |[link](https://mariamalshammari.github.io/reading-notes/class-02) |
+| class-03         |[link](https://mariamalshammari.github.io/reading-notes/class-03) |
+| class-04         |[link](https://mariamalshammari.github.io/reading-notes/class-04) |
+| class-05         |[link](https://mariamalshammari.github.io/reading-notes/class-05) |
+| class-06         |[link](https://mariamalshammari.github.io/reading-notes/class-06) |
+| class-07         |[link](https://mariamalshammari.github.io/reading-notes/class-07) |
+| class-08         |[link](https://mariamalshammari.github.io/reading-notes/class-08) |
+| class-09         |[link](https://mariamalshammari.github.io/reading-notes/class-09) |
+| class-10         |[link](https://mariamalshammari.github.io/reading-notes/class-10) |
+| class-11         |[link](https://mariamalshammari.github.io/reading-notes/class-11) |
+| class-12         |[link](https://mariamalshammari.github.io/reading-notes/class-12) |
+| class-13         |[link](https://mariamalshammari.github.io/reading-notes/class-13) |
+| class-14a         |[link](https://mariamalshammari.github.io/reading-notes/class-14a) |
+| class-14b         |[link](https://mariamalshammari.github.io/reading-notes/class-14b) |
 
 
 
