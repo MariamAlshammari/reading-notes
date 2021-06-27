@@ -58,7 +58,7 @@
 | Reading Topic  | live URLs    |
 | :------------- | :---------- |
 | class01        |[link](https://mariamalshammari.github.io/reading-notes/Class01)|
-| class02        |[link](https://mariamalshammari.github.io/reading-notes/class02)|
+| class02        |[link](https://mariamalshammari.github.io/reading-notes/Class02)|
 
 
 
