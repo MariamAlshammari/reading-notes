@@ -59,6 +59,7 @@
 | :------------- | :---------- |
 | class01        |[link](https://mariamalshammari.github.io/reading-notes/Class01)|
 | class02        |[link](https://mariamalshammari.github.io/reading-notes/Class02)|
+| class03        |[link](https://mariamalshammari.github.io/reading-notes/Class03)|
 
 
 
