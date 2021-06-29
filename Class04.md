@@ -35,11 +35,11 @@
 
 ![img2](https://scotch-res.cloudinary.com/image/upload/w_1050,q_auto:good,f_auto/v1562952581/jqctyinrganjts991d3w.jpg)
 
-## **Why would we use a ternary operator?**
+## **1.Why would we use a ternary operator?**
 
 ## It manage us to write condition codedo in just one line of code so to simplify your if-else statements that are used to assign values to variables. The ternary operator is commonly used when assigning post data or validating forms.
 
-## **Rewrite the following statement using a ternary statement:**
+## **2.Rewrite the following statement using a ternary statement:**
 
   if(x===y){
  console.log(true);
