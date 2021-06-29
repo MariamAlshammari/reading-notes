@@ -60,6 +60,7 @@
 | class01        |[link](https://mariamalshammari.github.io/reading-notes/Class01)|
 | class02        |[link](https://mariamalshammari.github.io/reading-notes/Class02)|
 | class03        |[link](https://mariamalshammari.github.io/reading-notes/Class03)|
+| class04        |[link](https://mariamalshammari.github.io/reading-notes/Class04)|
 
 
 
