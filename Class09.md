@@ -1,21 +1,23 @@
-## **Functional Programming **
+## **Functional Programming**
 
 
 ## **1.What is functional programming?**
 
- ### functional programming is a programming paradigm where programs are constructed by applying and composing functions.When a pure function is called with some given arguments, it will always return the same result, and cannot be affected by any mutable state or other side effects
+### Functional programming is a programming paradigm where programs are constructed by applying and composing functions.When a pure function is called with some given arguments, it will always return the same result, and cannot be affected by any mutable state or other side effects.
+
  ![img](https://miro.medium.com/max/988/1*FcIxbMdz8KBfl6EKYsSQ5w.png)
 
 ## **2.What is a pure function and how do we know if something is a pure function?**
 
- ### pure function is a function that depends only on its declared inputs and its internal algorithm to produce its output. It does not read any other values from “the outside world” — the world outside of the function's scope — and it does not modify any values in the outside worls . SO , is a function where the return value is only determined by its input values, without observable side effects. This is how functions in math work: Math. cos(x) will, for the same value of x , always return the same result. Computing it does not change x .
+### pure function is a function that depends only on its declared inputs and its internal algorithm to produce its output. It does not read any other values from “the outside world” — the world outside of the function's scope — and it does not modify any values in the outside worls . SO , is a function where the return value is only determined by its input values, without observable side effects. This is how functions in math work: Math. cos(x) will, for the same value of x , always return the same result. Computing it does not change x .
 
- ![img1](https://cdn-media-1.freecodecamp.org/images/0*a_yub2gTwY-1eK8j.png)
+
+![img1](https://cdn-media-1.freecodecamp.org/images/0*a_yub2gTwY-1eK8j.png)
 
 
 ## **3.What are the benefits of a pure function?**
 
- ### are much easier to read and reason about. All relevant inputs and dependencies are provided as parameters, so no effects are observed that alter variables outside of the set of inputs. This means that we can quickly understand a function and its 
+### are much easier to read and reason about. All relevant inputs and dependencies are provided as parameters, so no effects are observed that alter variables outside of the set of inputs. This means that we can quickly understand a function and its 
 
 ## **4.What is immutability?**
 
