@@ -68,6 +68,9 @@
 | class09        |[link](https://mariamalshammari.github.io/reading-notes/Class09)|
 | class10        |[link](https://mariamalshammari.github.io/reading-notes/Class10)|
 | class11        |[link](https://mariamalshammari.github.io/reading-notes/Class11)|
+| class12        |[link](https://mariamalshammari.github.io/reading-notes/Class12)|
+| class13        |[link](https://mariamalshammari.github.io/reading-notes/Class13)|
+
 
 
 **GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.**
