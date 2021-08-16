@@ -82,7 +82,7 @@
 | Prep:Get Ready for 401        |[link](https://mariamalshammari.github.io/reading-notes/Prep)|
 | class01        |[link](https://mariamalshammari.github.io/reading-notes/Class01-401)|
 | class02        |[link](https://mariamalshammari.github.io/reading-notes/Class02-401)|
-| class03        |[link](https://mariamalshammari.github.io/reading-notes/Class03)|
+| class03        |[link](https://mariamalshammari.github.io/reading-notes/Class03-401)|
 | class04        |[link](https://mariamalshammari.github.io/reading-notes/Class04)|
 | class05        |[link](https://mariamalshammari.github.io/reading-notes/Class05)|
 | class06        |[link](https://mariamalshammari.github.io/reading-notes/Class06)|
