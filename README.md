@@ -83,18 +83,18 @@
 | class01        |[link](https://mariamalshammari.github.io/reading-notes/Class01-401)|
 | class02        |[link](https://mariamalshammari.github.io/reading-notes/Class02-401)|
 | class03        |[link](https://mariamalshammari.github.io/reading-notes/Class03-401)|
-| class04        |[link](https://mariamalshammari.github.io/reading-notes/Class04)|
-| class05        |[link](https://mariamalshammari.github.io/reading-notes/Class05)|
-| class06        |[link](https://mariamalshammari.github.io/reading-notes/Class06)|
-| class07        |[link](https://mariamalshammari.github.io/reading-notes/Class07)|
-| class08        |[link](https://mariamalshammari.github.io/reading-notes/Class08)|
-| class09        |[link](https://mariamalshammari.github.io/reading-notes/Class09)|
-| class10        |[link](https://mariamalshammari.github.io/reading-notes/Class10)|
-| class11        |[link](https://mariamalshammari.github.io/reading-notes/Class11)|
-| class12        |[link](https://mariamalshammari.github.io/reading-notes/Class12)|
-| class13        |[link](https://mariamalshammari.github.io/reading-notes/Class13)|
-| class14        |[link](https://mariamalshammari.github.io/reading-notes/Class14)|
-| class15        |[link](https://mariamalshammari.github.io/reading-notes/Class15)|
+| class04        |[link](https://mariamalshammari.github.io/reading-notes/Class04-401)|
+| class05        |[link](https://mariamalshammari.github.io/reading-notes/Class05-401)|
+| class06        |[link](https://mariamalshammari.github.io/reading-notes/Class06-401)|
+| class07        |[link](https://mariamalshammari.github.io/reading-notes/Class07-401)|
+| class08        |[link](https://mariamalshammari.github.io/reading-notes/Class08-401)|
+| class09        |[link](https://mariamalshammari.github.io/reading-notes/Class09-401)|
+| class10        |[link](https://mariamalshammari.github.io/reading-notes/Class10-401)|
+| class11        |[link](https://mariamalshammari.github.io/reading-notes/Class11-401)|
+| class12        |[link](https://mariamalshammari.github.io/reading-notes/Class12-401)|
+| class13        |[link](https://mariamalshammari.github.io/reading-notes/Class13-401)|
+| class14        |[link](https://mariamalshammari.github.io/reading-notes/Class14-401)|
+| class15        |[link](https://mariamalshammari.github.io/reading-notes/Class15-401)|
 
 **GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.**
 
