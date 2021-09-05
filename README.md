@@ -1,16 +1,15 @@
 # **reading notes**
 
-####  Hi, I’m Mariam Alshammari i'm 22 years old, i've a bachelor's degree in computer information systems I’m interested in programming and writing.
-
+#### Hi, I’m Mariam Alshammari i'm 22 years old, i've a bachelor's degree in computer information systems I’m interested in programming and writing
 
 ### **This repo is include all the reading notes of :**
-1. 102 code 
-2. 201 code 
-3. 301 code 
-4. 401 code 
 
+1. 102 code
+2. 201 code
+3. 301 code
+4. 401 code
 
-## **Code 102 - Intro to Software Development** 
+## **Code 102 - Intro to Software Development**
 
 ### table of content ^.^
 
@@ -26,8 +25,8 @@
 | read07         |[link](https://mariamalshammari.github.io/reading-notes2/read07) |
 | read09         |[link](https://mariamalshammari.github.io/reading-notes2/read09) |
 
-
 ## **Code 201 - Foundations of Software Development**
+
 ### table of content ^.^
 
 | Reading Topic  | live URLs    |
@@ -48,12 +47,9 @@
 | class-14a         |[link](https://mariamalshammari.github.io/reading-notes/class-14a) |
 | class-14b         |[link](https://mariamalshammari.github.io/reading-notes/class-14b) |
 
-
-
 ## **Code 301 - Intermediate Software Development**
 
 ### table of content ^.^
-
 
 | Reading Topic  | live URLs    |
 | :------------- | :---------- |
@@ -70,8 +66,6 @@
 | class11        |[link](https://mariamalshammari.github.io/reading-notes/Class11)|
 | class12        |[link](https://mariamalshammari.github.io/reading-notes/Class12)|
 | class13        |[link](https://mariamalshammari.github.io/reading-notes/Class13)|
-
-
 
 ## **Code 401 - Intermediate Software Development**
 
@@ -97,11 +91,12 @@
 | class15        |[link](https://mariamalshammari.github.io/reading-notes/Class15-401)|
 | class16        |[link](https://mariamalshammari.github.io/reading-notes/Class16-401)|
 | class17        |[link](https://mariamalshammari.github.io/reading-notes/Class17-401)|
-
+| class18        |[link](https://mariamalshammari.github.io/reading-notes/Class18-401)|
 
 **GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.**
 
 #### Create Your Website
+
 >Once you’ve signed in, you’ll create a new repository to get started.
 ![img1](https://guides.github.com/features/pages/create-new-repo-button.png)
 
