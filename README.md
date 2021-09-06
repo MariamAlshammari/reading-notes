@@ -1,6 +1,6 @@
 # **reading notes**
 
-#### Hi, I’m Mariam Alshammari i'm 22 years old, i've a bachelor's degree in computer information systems I’m interested in programming and writing
+## Hi, I’m Mariam Alshammari i'm 22 years old, i've a bachelor's degree in computer information systems I’m interested in programming and writing
 
 ### **This repo is include all the reading notes of :**
 
@@ -27,7 +27,7 @@
 
 ## **Code 201 - Foundations of Software Development**
 
-### table of content ^.^
+### table of content  ^.^
 
 | Reading Topic  | live URLs    |
 | :------------- | :---------- |
@@ -49,7 +49,7 @@
 
 ## **Code 301 - Intermediate Software Development**
 
-### table of content ^.^
+### table of  content ^.^
 
 | Reading Topic  | live URLs    |
 | :------------- | :---------- |
@@ -69,7 +69,7 @@
 
 ## **Code 401 - Intermediate Software Development**
 
-### table of content ^.^
+### table of  Content ^.^
 
 | Reading Topic  | live URLs    |
 | :------------- | :---------- |
@@ -92,6 +92,8 @@
 | class16        |[link](https://mariamalshammari.github.io/reading-notes/Class16-401)|
 | class17        |[link](https://mariamalshammari.github.io/reading-notes/Class17-401)|
 | class18        |[link](https://mariamalshammari.github.io/reading-notes/Class18-401)|
+| class19        |[link](https://mariamalshammari.github.io/reading-notes/Class19-401)|
+| class20        |[link](https://mariamalshammari.github.io/reading-notes/Class20-401)|
 
 **GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.**
 
