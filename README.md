@@ -93,7 +93,10 @@
 | class17        |[link](https://mariamalshammari.github.io/reading-notes/Class17-401)|
 | class18        |[link](https://mariamalshammari.github.io/reading-notes/Class18-401)|
 | class19        |[link](https://mariamalshammari.github.io/reading-notes/Class19-401)|
-| class20        |[link](https://mariamalshammari.github.io/reading-notes/Class20-401)|
+| class26        |[link](https://mariamalshammari.github.io/reading-notes/Class26-401)|
+| class27        |[link](https://mariamalshammari.github.io/reading-notes/Class27-401)|
+| class28        |[link](https://mariamalshammari.github.io/reading-notes/Class28-401)|
+| class29        |[link](https://mariamalshammari.github.io/reading-notes/Class29-401)|
 
 **GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.**
 
